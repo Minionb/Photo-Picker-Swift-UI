@@ -3,23 +3,21 @@
 ## Workflow
 
 Home Page
+
+<img src="./images/homePage.png" alt="Photo Display" width="150" height="300">
+
 <br>
-![alt text](./images/homePage.png)
 <br>
 
 Photo Display
-<br>
-![alt text](./images/Display.png)
-<br>
+<img src="./images/Display.png" alt="Photo Display" width="150" height="300">
 
 Horizontal Photo Gallery
 
+<img src="./images/Display.png" alt="Horizontal Photo Gallery" width="150" height="300">
+
 <br>
-![alt text](./images/Display.png)
 <br>
 
 Vertical Photo Gallery
-
-<br>
-![alt text](./images/vertical.png)
-<br>
+<img src="./images/vertical.png" alt="Vertical Photo Gallery" width="150" height="300">
